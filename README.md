@@ -14,3 +14,7 @@ Please clone the repository on your machine and send a pull request for your con
 
 ## Bugs
 If something doesn't work or you have a question, please get in-touch tasos@tasospardalis.com
+
+# The second R script is map_gt_regions.R
+
+There are two R scripts in this repository. The first is to allow us to call daily Google Trends data over a long period of time. The second one is to map the GTrends "geo" variable with a region_key variable. The reason for taking such an approach is in case you want to merge your GTrends data with more data to enhance a model.
